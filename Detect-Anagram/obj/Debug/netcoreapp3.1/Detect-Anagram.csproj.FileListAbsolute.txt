@@ -1,0 +1,13 @@
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.exe
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.deps.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.runtimeconfig.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.runtimeconfig.dev.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.dll
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\bin\Debug\netcoreapp3.1\Detect-Anagram.pdb
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.dll
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.pdb
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Detect-Anagram\Detect-Anagram\obj\Debug\netcoreapp3.1\Detect-Anagram.genruntimeconfig.cache
